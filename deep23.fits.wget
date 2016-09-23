@@ -1,0 +1,163 @@
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col11/u/S82_11u_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col11/u/S82_11u_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col11/u/S82_11u_177.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/u/S82_05u_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/u/S82_05u_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/u/S82_05u_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/u/S82_05u_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/u/S82_05u_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/u/S82_10u_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/u/S82_10u_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/u/S82_10u_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/u/S82_10u_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/u/S82_10u_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/u/S82_04u_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/u/S82_04u_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/u/S82_04u_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/u/S82_04u_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/u/S82_04u_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/u/S82_09u_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/u/S82_09u_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/u/S82_09u_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/u/S82_09u_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/u/S82_09u_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col03/u/S82_03u_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col03/u/S82_03u_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col03/u/S82_03u_177.fits
+
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col11/g/S82_11g_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col11/g/S82_11g_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col11/g/S82_11g_177.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/g/S82_05g_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/g/S82_05g_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/g/S82_05g_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/g/S82_05g_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/g/S82_05g_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/g/S82_10g_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/g/S82_10g_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/g/S82_10g_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/g/S82_10g_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/g/S82_10g_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/g/S82_04g_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/g/S82_04g_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/g/S82_04g_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/g/S82_04g_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/g/S82_04g_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/g/S82_09g_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/g/S82_09g_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/g/S82_09g_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/g/S82_09g_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/g/S82_09g_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col03/g/S82_03g_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col03/g/S82_03g_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col03/g/S82_03g_177.fits
+
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col11/r/S82_11r_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col11/r/S82_11r_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col11/r/S82_11r_177.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/r/S82_05r_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/r/S82_05r_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/r/S82_05r_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/r/S82_05r_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/r/S82_05r_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/r/S82_10r_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/r/S82_10r_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/r/S82_10r_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/r/S82_10r_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/r/S82_10r_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/r/S82_04r_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/r/S82_04r_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/r/S82_04r_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/r/S82_04r_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/r/S82_04r_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/r/S82_09r_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/r/S82_09r_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/r/S82_09r_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/r/S82_09r_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/r/S82_09r_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col03/r/S82_03r_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col03/r/S82_03r_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col03/r/S82_03r_177.fits
+
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col11/i/S82_11i_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col11/i/S82_11i_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col11/i/S82_11i_177.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/i/S82_05i_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/i/S82_05i_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/i/S82_05i_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/i/S82_05i_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/i/S82_05i_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/i/S82_10i_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/i/S82_10i_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/i/S82_10i_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/i/S82_10i_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/i/S82_10i_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/i/S82_04i_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/i/S82_04i_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/i/S82_04i_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/i/S82_04i_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/i/S82_04i_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/i/S82_09i_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/i/S82_09i_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/i/S82_09i_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/i/S82_09i_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/i/S82_09i_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col03/i/S82_03i_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col03/i/S82_03i_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col03/i/S82_03i_177.fits
+
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col11/z/S82_11z_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col11/z/S82_11z_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col11/z/S82_11z_177.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/z/S82_05z_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/z/S82_05z_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/z/S82_05z_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/z/S82_05z_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col05/z/S82_05z_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/z/S82_10z_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/z/S82_10z_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/z/S82_10z_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/z/S82_10z_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col10/z/S82_10z_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/z/S82_04z_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/z/S82_04z_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/z/S82_04z_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/z/S82_04z_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col04/z/S82_04z_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/z/S82_09z_174.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/z/S82_09z_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/z/S82_09z_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/z/S82_09z_177.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col09/z/S82_09z_178.fits
+
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col03/z/S82_03z_175.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col03/z/S82_03z_176.fits
+wget http://das.sdss.org/ge/sample/stripe82/sdss/col03/z/S82_03z_177.fits
